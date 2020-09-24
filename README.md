@@ -27,12 +27,13 @@
 </p>
 
 <!-- Cards -->
-<p>
+<p align="center">
   <!-- Most Used Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskosvoski&layout=compact&theme=onedark" alt="douglaskosvoski" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskosvoski&layout=compact&theme=onedark" alt="douglaskosvoski" height=50% width=50%  />
 
   <!-- Github's Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglaskosvoski&show_icons=true&theme=onedark" alt="douglaskosvoski" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=douglaskosvoski&show_icons=true&theme=onedark" alt="douglaskosvoski" height=50% width=50% />
+</p>
 
 <!-- Contacts -->
 <p align="center">
