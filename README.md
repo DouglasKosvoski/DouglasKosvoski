@@ -2,16 +2,16 @@
   <img src="./header.png" alt="header_image" width=100% height=100%>
 
   <h2>Who I Am</h2>
-  <h3>My name is Douglas Kosvoski, 20 years old, also known by the nickname of Attory, I am at the current time a Computer Science undergraduate student and an indie game developer, creating and developing 2D games and many sorts of physics simulations.</h3> </br>
+  <h4>My name is Douglas Kosvoski, 20 years old, also known by the nickname of Attory, I am at the current time a Computer Science undergraduate student and an indie game developer, creating and developing 2D games and many sorts of physics simulations.</h4>
 
   <h2>Interests</h2>
-  <h3>I'd say I love any computer related topic but of the top of my mind the topics I have interest the most are security, computer graphics and game development.</h3> </br>
+  <h4>I'd say I love any computer related topic but of the top of my mind the topics I have interest the most are security, computer graphics and game development.</h4>
 
   <h2>Hobbies</h2>
-  <h3>In my free time I tend to go into long walks and sometimes runnings, chat with friends, read a lot of science-fiction and manga. I enjoy playing cards and board games aswell as playing guitar and poorly singing.</h3> </br>
+  <h4>In my free time I tend to go into long walks and sometimes runnings, chat with friends, read a lot of science-fiction and manga. I enjoy playing cards and board games aswell as playing guitar and poorly singing.</h4>
 
   <!-- tech icons -->
-  <h2>Some Technologies I Am Familiar With</h2> <hr/>
+  <h2>Some Technologies I Am Familiar With</h2>
   <div align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
@@ -29,10 +29,8 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </div>
 
-  <br>
-
   <!-- Featured Projects -->
-  <h2>Featured Projects</h2><hr/>
+  <h2>Featured Projects</h2>
   <p align="center;" style="padding:1px;">
     <img src="https://github-readme-stats.vercel.app/api?username=douglaskosvoski&show_icons=true&count_private=true&line_height=27&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskosvoski&count_private=true&hide=VHDL&langs_count=4&theme=tokyonight">
@@ -41,9 +39,9 @@
   <!-- Contacts -->
   <hr/>
   <div align="center">
-    <a href="https://twitter.com/attoryz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twiiter" height="30" width="30" /></a>
-    <a href="https://linkedin.com/in/douglas-kosvoski-a89b54147/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" /></a>
-    <a href="mailto:douglas.contactpro@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="30" /></a>
+    <a href="https://twitter.com/attoryz" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twiiter" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/douglas-kosvoski-a89b54147/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" /></a>
+    <a href="mailto:douglas.contactpro@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="30" /></a>
   </div>
 
   </div>
