@@ -1,14 +1,13 @@
 <div style="background-color: #1D1D1D; padding: 5px">
   <img src="./header.png" alt="header_image" width=100% height=100%>
 
-  <h2>Who I Am</h2>
-  <h4>My name is Douglas Kosvoski, 20 years old, also known by the nickname of Attory, I am at the current time a Computer Science undergraduate student and an indie game developer, creating and developing 2D games and many sorts of physics simulations.</h4>
+  <h2>My name is Douglas Kosvoski, 20 years old, also known by the name of Attory, I am currently a graduate student in Computer Science and developer of indie games, creating and developing 2D games and various types of physics simulations.</h4>
 
   <h2>Interests</h2>
-  <h4>I'd say I love any computer related topic but of the top of my mind the topics I have interest the most are security, computer graphics and game development.</h4>
+  <h4>I would say I love any computer related topic, but at the top of my mind the topics that interest me most are security, computer graphics and game development.</h4>
 
   <h2>Hobbies</h2>
-  <h4>In my free time I tend to go into long walks and sometimes runnings, chat with friends, read a lot of science-fiction and manga. I enjoy playing cards and board games aswell as playing guitar and poorly singing.</h4>
+  <h4>In my spare time, I usually go for long walks and sometimes run, chat with friends, read a lot of science fiction and manga. I enjoy playing cards and board games, as well as playing guitar and singing badly.</h4>
 
   <!-- tech icons -->
   <h2>Some Technologies I Am Familiar With</h2>
