@@ -1,13 +1,14 @@
 <div style="background-color: #1D1D1D; padding: 5px">
   <img src="./header.png" alt="header_image" width=100% height=100%>
 
-  <h2>My name is Douglas Kosvoski, 20 years old, also known by the name of Attory, I am currently a graduate student in Computer Science and developer of indie games, creating and developing 2D games and various types of physics simulations.</h4>
+  <h2>Who I am</h2>
+  <h3>My name is Douglas Kosvoski, 20 years old, also known by the name of Attory, I am currently a graduate student in Computer Science and developer of indie games, creating and developing 2D games and various types of physics simulations.</h3>
 
   <h2>Interests</h2>
-  <h4>I would say I love any computer related topic, but at the top of my mind the topics that interest me most are security, computer graphics and game development.</h4>
+  <h3>I would say I love any computer related topic, but at the top of my mind the topics that interest me most are security, computer graphics and game development.</h3>
 
   <h2>Hobbies</h2>
-  <h4>In my spare time, I usually go for long walks and sometimes run, chat with friends, read a lot of science fiction and manga. I enjoy playing cards and board games, as well as playing guitar and singing badly.</h4>
+  <h3>In my spare time, I usually go for long walks and sometimes run, chat with friends, read a lot of science fiction and manga. I enjoy playing cards and board games, as well as playing guitar and singing badly.</h3>
 
   <!-- tech icons -->
   <h2>Some Technologies I Am Familiar With</h2>
@@ -42,6 +43,5 @@
     <a href="https://linkedin.com/in/douglas-kosvoski-a89b54147/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="30" /></a>
     <a href="mailto:douglas.contactpro@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="30" /></a>
   </div>
-
   </div>
 </div>
