@@ -1,5 +1,5 @@
 <div style="background-color: #1D1D1D; padding: 5px">
-  <img src="./header.png" alt="header_image" width=100% height=100%>
+  <img src="./header_bw.gif" alt="header_image_bw" width=100% height=100% style="opacity:0.5">
 
   <h2>Who I am</h2>
   <h3>My name is Douglas Kosvoski, 20 years old, also known by the name of Attory, I am currently a graduate student in Computer Science and developer of indie games, creating and developing 2D games and various types of physics simulations.</h3>
