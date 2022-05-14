@@ -9,3 +9,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DouglasKosvoski&column=7&theme=onedark" />
   </div>
 </div>
+
+[.](https://gist.github.com/DouglasKosvoski/95734170d671b7eb4c730d2f5f797b32)
