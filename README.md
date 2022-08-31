@@ -5,21 +5,20 @@
 <h3 align="center">A passionate student from Brazil</h3>
 
 <!-- Trophies -->
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=DouglasKosvoski&column=8&row=2&theme=oldie&margin-w=15"/>
-    </a>
-</p>
+<div style="margin-left:50%; transform: translateX(-50%)">
+    <img src="https://github-profile-trophy.vercel.app/?username=DouglasKosvoski&column=8&row=2&theme=oldie&margin-w=12"/>
+</div>
 
 ---
+
 - 🔭 I’m currently working on **Web Development**
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/DouglasKosvoski?tab=repositories)
 
-
-- 📫 How to reach me **douglas.contactpro@gmail.com**
+* 📫 How to reach me **douglas.contactpro@gmail.com**
 
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/attoryama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attoryama" height="30" width="40" />
@@ -29,6 +28,7 @@
 </p>
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -93,6 +93,7 @@
 </a>
 
 ---
+
 </p>
 
 <!-- Overview Cards -->
