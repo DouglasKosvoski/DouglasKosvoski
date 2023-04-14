@@ -9,16 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DouglasKosvoski&column=8&row=2&theme=oldie&margin-w=12"/>
 </div>
 
----
-
-- 🔭 I’m currently working on **Web Development**
-
-- 👨‍💻 All of my projects are available at [github.com](https://github.com/DouglasKosvoski?tab=repositories)
-
-* 📫 How to reach me **douglas.contactpro@gmail.com**
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/attoryama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attoryama" height="30" width="40" />
