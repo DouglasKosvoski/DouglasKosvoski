@@ -9,14 +9,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DouglasKosvoski&column=8&row=2&theme=oldie&margin-w=12"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/attoryama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="attoryama" height="30" width="40" />
-</a>
-<a href="https://twitter.com/attoryz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="attoryz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/douglas-kosvoski-a89b54147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas kosvoski" height="30" width="40" /></a>
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
