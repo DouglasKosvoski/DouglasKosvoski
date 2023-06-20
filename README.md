@@ -2,7 +2,7 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/></p>
 
 <h1 align="center">Hi 👋, I'm Douglas Kosvoski</h1>
-<h3 align="center">A passionate student from Brazil</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <!-- Trophies -->
 <div style="margin-left:50%; transform: translateX(-50%)">
