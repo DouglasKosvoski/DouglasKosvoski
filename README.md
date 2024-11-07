@@ -1,6 +1,4 @@
 <!-- header -->
-<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/></p>
-
 <h1 align="center">Hi 👋, I'm Douglas Kosvoski</h1>
 <h3 align="center">Fullstack developer</h3>
 
@@ -83,9 +81,5 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=douglaskosvoski&&show_icons=true&count_private=true&line_height=24&theme=dark&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskosvoski&count_private=true&theme=dark&layout=compact&langs_count=8"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglaskosvoski&theme=dark" alt="douglaskosvoski" />
   </p>
 </div>
-
-<!-- Footer -->
-<p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/></p>
