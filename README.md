@@ -13,9 +13,6 @@ My approach balances creativity with technical solutions, and I believe versatil
 ## GitHub Stats
 ![DouglasKosvoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasKosvoski&show_icons=true&theme=dracula)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasKosvoski&layout=compact&theme=dracula)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/douglaskosvoski/)
 - [Email](mailto:douglas.contactpro@gmail.com)
