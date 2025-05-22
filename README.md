@@ -10,9 +10,6 @@ My approach balances creativity with technical solutions, and I believe versatil
 - *UI Development*: Bootstrap, Tailwind CSS, Shadcn/ui, and Chart.js 
 - *Storage & Version Control*: Docker, Amazon S3, NFS, Git/GitHub, and GitHub Actions 
 
-## GitHub Stats
-![DouglasKosvoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasKosvoski&show_icons=true&theme=dracula)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/douglaskosvoski/)
 - [Email](mailto:douglas.contactpro@gmail.com)
